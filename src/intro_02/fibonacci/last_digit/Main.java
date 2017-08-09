@@ -1,8 +1,8 @@
-package fibonacci_last_digit;
+package intro_02.fibonacci.last_digit;
 
 import java.util.Scanner;
 
-public class Main {
+class Main {
 
     public int lastFibDigit(int nth) {
         int ldpp = 0;
